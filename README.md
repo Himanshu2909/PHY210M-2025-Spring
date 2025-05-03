@@ -15,4 +15,6 @@ https://drive.google.com/drive/folders/1AsE-SuyuuiEfKApZqkL8kk0cU-BnbqBS
 
 In case the drive gets deleted, I've also uploaded a compressed version of the same to this repository.
 
+PS: Credits to Sowbarnika for the Complete Notes.
+
 Sit Vis Vobiscum!
